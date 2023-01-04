@@ -1,0 +1,30 @@
+#footer {
+    position: relative;
+    overflow: hidden;
+    padding: 6em 0 2em 0;
+    background: #2b252c;
+    color: #fff;
+  }
+
+.contact {
+    margin-bottom: 2em;
+}
+
+.singleCol {
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 0.35em 0.5em 0.35em 0.5em;
+    background: rgba(128, 128, 128, 0.05);
+    display: inline-block;
+    border-radius: 4em;
+}
+
+.social-media-icons-white a {
+    color: white;
+    font-size: 1.25rem;
+}
+
+.copyright {
+    color: rgba(128, 128, 128, 0.75);
+    font-size: 0.8em;
+}

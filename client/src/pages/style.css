@@ -1,0 +1,21 @@
+h1, h2, h3, h4, h5 {
+    padding-top: 2rem;
+}
+
+/* RECORDINGS */
+.sidebar-ul {
+    list-style-type: none;
+}
+
+#content {
+    margin-top: -1em;
+}
+
+.recordings-h2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.individual-recording-div {
+    margin-left: 20px;
+}
